@@ -1,0 +1,10 @@
+Transaction_date,Admin_district,Street,Geodesic_precinct,Type_of_law,Transaction_price,Floor_area,Other_area,Price_per_Floor_area,PCC,Year_of_construction,Short_description,Storey,Floor,No_of_storeys,Standard_of_flat,Type_of_other_area,Seller,Buyer
+2020-03-03,Kraków - Nowa Huta,Bohaterów Września,2,spółdzielcze wł. prawo,268000,32.07,1.31,8356.72,zapłacono,,"pokój:2,kuchnia:1,łazienka z wc:1,przedpokój:1",2.0,1 piętro,,,piwnica,osoba fizyczna,osoba fizyczna
+2020-02-06,Kraków - Śródmieście,Reduta,22,własność-u.wieczyste,430000,57.63,14.62,7461.39,zapłacono,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",4.0,3 piętro,,,komórka lokatorska,osoba fizyczna,osoba fizyczna przedsiębiorca
+2020-01-28,Kraków - Nowa Huta,Piastów,2,spółdzielcze wł. prawo,280000,38.61,4.48,7252.01,zapłacono,,,5.0,4 piętro,,,piwnica,osoba fizyczna,osoba fizyczna
+2020-01-24,Kraków - Krowodrza,Krowoderskich Zuchów,44,spółdzielcze wł. prawo,390000,51.5,2.5,7572.82,zapłacono,,"pokój:3,kuchnia:1,łazienka:1,wc:1,przedpokój:1",2.0,1 piętro,5,,piwnica,osoba fizyczna,osoba fizyczna
+2020-01-23,Kraków - Nowa Huta,Strusia Józefa,8,spółdzielcze wł. prawo,250000,26.05,3.08,9596.93,zapłacono,,"pokój:1,łazienka z wc:1,przedpokój:1",4.0,3 piętro,,,piwnica,osoba fizyczna,osoba fizyczna
+2020-01-23,Kraków - Nowa Huta,Strusia Józefa,8,spółdzielcze wł. prawo,235000,36.65,1.98,6412.01,zapłacono,,"pokój:2,ciemna kuchnia:1,łazienka z wc:1,przedpokój:1",3.0,2 piętro,,do remontu kapitalnego,piwnica,osoba fizyczna,osoba fizyczna
+2020-01-23,Kraków - Nowa Huta,Na Lotnisku,8,spółdzielcze wł. prawo,265000,36.38,0.98,7284.22,zapłacono,,"pokój:2,ciemna kuchnia:1,łazienka z wc:1,przedpokój:1",7.0,powyżej 5 piętra,,,piwnica,osoba fizyczna,osoba fizyczna
+2020-01-22,Kraków - Krowodrza,Łokietka Władysława,44,spółdzielcze wł. prawo,355000,38.8,,9149.48,zapłacono,,"pokój:2,kuchnia:1,łazienka z wc:1,przedpokój:1",5.0,4 piętro,11,dobry,piwnica,osoba fizyczna,osoba fizyczna
+2020-01-21,Kraków - Nowa Huta,Kombatantów,2,spółdzielcze wł. prawo,245000,32.94,2.32,7437.77,zapłacono,,"pokój:1,ciemna kuchnia:1,łazienka z wc:1,przedpokój:1",1.0,parter,,,piwnica,osoba fizyczna,osoba fizyczna

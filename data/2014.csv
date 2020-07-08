@@ -1,0 +1,10 @@
+Transaction_date,Admin_district,Street,Geodesic_precinct,Type_of_law,Transaction_price,Floor_area,Other_area,Price_per_Floor_area,PCC,Year_of_construction,Short_description,Storey,Floor,No_of_storeys,Standard_of_flat,Type_of_other_area,Seller,Buyer
+2014-12-31,Kraków - Podgórze,Klonowica Sebastiana,47,własność-własność,348544.44,61.4,,5676.62,nie zapłacono,,,2.0,,,,,"przeds., spółka, firma",osoba fizyczna
+2014-12-31,Kraków - Krowodrza,Różyckiego Ludomira,41,spółdzielcze wł. prawo,205000,35.4,,5790.96,zapłacono,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",5.0,4 piętro,11,,,osoba fizyczna,osoba fizyczna
+2014-12-31,Kraków - Podgórze,Zagrodzkiego Adolfa Księdza,43,własność-własność,192000,28.49,,6739.21,zapłacono,,"pokój:1,aneks kuchenny:1,łazienka:1",,parter,,,,osoba fizyczna,osoba fizyczna
+2014-12-31,Kraków - Podgórze,Miłkowskiego Zygmunta,31,własność-własność,468018.32,74.3,,6299.04,nie zapłacono,lata 2010-2019,"pokój:3,aneks kuchenny:1,łazienka:2,przedpokój:1,garderoba:1",9.0,,,,,deweloper,osoba fizyczna
+2014-12-31,Kraków - Podgórze,Miłkowskiego Zygmunta,31,własność-własność,246047.63,35.51,,6928.97,nie zapłacono,lata 2010-2019,"pokój:1,aneks kuchenny:1,łazienka:1,przedpokój:1",6.0,,,,,deweloper,osoba fizyczna
+2014-12-31,Kraków - Podgórze,Słońskiego Gabriela,7,własność-własność,442758.3,52.92,,8366.56,nie zapłacono,,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1,garderoba:1",1.0,,,,,deweloper,osoba fizyczna
+2014-12-31,Kraków - Podgórze,Brożka Jana,32,własność-własność,155000,31.72,,4886.51,zapłacono,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",7.0,,,,piwnica,osoba fizyczna przedsiębiorca,spółka prawa handlowego
+2014-12-31,Kraków - Krowodrza,Wiosenna,7,własność-własność,461257.5,67.89,,6794.19,nie zapłacono,,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1,pomieszczenie gospodarcze:1",,poddasze,,,,deweloper,osoba fizyczna przedsiębiorca
+2014-12-31,Kraków - Krowodrza,Wiosenna,7,własność-własność,464565,68.38,,6793.87,nie zapłacono,,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1,pomieszczenie gospodarcze:1",,poddasze,,,,deweloper,osoba fizyczna przedsiębiorca

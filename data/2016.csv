@@ -1,0 +1,10 @@
+Transaction_date,Admin_district,Street,Geodesic_precinct,Type_of_law,Transaction_price,Floor_area,Other_area,Price_per_Floor_area,PCC,Year_of_construction,Short_description,Storey,Floor,No_of_storeys,Standard_of_flat,Type_of_other_area,Seller,Buyer
+2016-12-31,Kraków - Podgórze,Na Kozłówce,50,własność-własność,150000,38.22,4.1,3924.65,zapłacono,,,1.0,,,,piwnica,osoba fizyczna,osoba fizyczna
+2016-12-30,Kraków - Krowodrza,Hamernia,6,własność-własność,245000,34.75,17.96,7050.36,zapłacono,,"pokój:1,kuchnia:1,łazienka z wc:1",1.2,parter,,,,osoba fizyczna,osoba fizyczna
+2016-12-30,Kraków - Krowodrza,Bronowicka,2,własność-własność,140000,19.82,,7063.57,zapłacono,,"pokój:1,kuchnia:1,łazienka z wc:1",10.0,powyżej 5 piętra,,,,osoba fizyczna,osoba fizyczna
+2016-12-30,Kraków - Śródmieście,Bohaterów Wietnamu,23,spółdzielcze wł. prawo,258000,44.6,4.4,5784.75,zapłacono,,"pokój:2,kuchnia:1,łazienka z wc:1,przedpokój:1",2.0,1 piętro,5,,piwnica,osoba fizyczna,osoba fizyczna
+2016-12-30,Kraków - Nowa Huta,Albertyńskie,7,spółdzielcze wł. prawo,193000,35.5,2.4,5436.62,zapłacono,,"pokój:1,kuchnia:1,łazienka:1,przedpokój:1",2.0,1 piętro,5,,piwnica,osoba fizyczna,osoba fizyczna
+2016-12-30,Kraków - Krowodrza,Jaremy Marii,41,spółdzielcze wł. prawo,255000,34.5,2.81,7391.3,zapłacono,,"pokój:2,ciemna kuchnia:1,łazienka z wc:1,przedpokój:2",3.0,2 piętro,11,,,osoba fizyczna,osoba fizyczna
+2016-12-30,Kraków - Krowodrza,Stachowicza Michała,14,własność-własność,269000,27.56,,9760.52,zapłacono,,"pokój:1,kuchnia:1,łazienka:1,przedpokój:1",2.0,,,,komórka lokatorska,osoba fizyczna,osoba fizyczna
+2016-12-30,Kraków - Krowodrza,Poznańska,45,własność-u.wieczyste,178000,22.53,,7900.58,nie zapłacono,lata 2010-2019,"pokój z aneksem kuchennym:1,łazienka:1",8.0,powyżej 5 piętra,,,,"przeds., spółka, firma",osoba fizyczna
+2016-12-30,Kraków - Podgórze,Miłkowskiego Zygmunta,31,własność-własność,475000,71.65,,6629.45,nie zapłacono,lata 2010-2019,"pokój:2,pokój z aneksem kuchennym:1,łazienka z wc:1,przedpokój:1,garderoba:1",9.0,,,,,spółka prawa handlowego,osoba fizyczna

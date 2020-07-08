@@ -1,0 +1,10 @@
+Transaction_date,Admin_district,Street,Geodesic_precinct,Type_of_law,Transaction_price,Floor_area,Other_area,Price_per_Floor_area,PCC,Year_of_construction,Short_description,Storey,Floor,No_of_storeys,Standard_of_flat,Type_of_other_area,Seller,Buyer
+2017-12-30,Kraków - Krowodrza,Armii Krajowej,2,własność-u.wieczyste,260000,57.88,2.62,4492.05,zapłacono,,"pokój:4,kuchnia:1,łazienka:1,wc:1,przedpokój:1",1.0,parter,,,piwnica,spółka cywilna,osoba fizyczna
+2017-12-29,Kraków - Podgórze,Aleksandry,57,własność-własność,195000,34.980000000000004,1.23,5574.61,zapłacono,,"pokój:1,kuchnia:1,łazienka:1,przedpokój:1",8.0,powyżej 5 piętra,,,piwnica,osoba fizyczna,osoba fizyczna
+2017-12-29,Kraków - Nowa Huta,Na Skarpie,47,własność-u.wieczyste,210000,51.97,,4040.79,zapłacono,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",1.0,parter,,do remontu,piwnica,"przeds., spółka, firma",spółka cywilna
+2017-12-29,Kraków - Krowodrza,Pachońskiego Henryka,42,własność-własność,330000,59.5,1.77,5546.22,zapłacono,,"pokój:3,kuchnia:1,łazienka:1,wc:1,przedpokój:1",2.0,1 piętro,,,piwnica,osoba fizyczna,osoba fizyczna
+2017-12-29,Kraków - Krowodrza,Jaremy Marii,41,własność-u.wieczyste,225000,25.4,,8858.27,zapłacono,,pokój:1,2.0,,,,,osoba fizyczna,osoba fizyczna
+2017-12-29,Kraków - Nowa Huta,Oświecenia,5,spółdzielcze wł. prawo,348000,56.74,2.82,6133.24,zapłacono,,"pokój:2,kuchnia:1,łazienka z wc:1,przedpokój:1",11.0,powyżej 5 piętra,12,,,osoba fizyczna przedsiębiorca,osoba fizyczna
+2017-12-29,Kraków - Podgórze,Kobierzyńska,31,spółdzielcze wł. prawo,320000,63.82,2.58,5014.1,zapłacono,,"pokój:3,kuchnia:1,łazienka:1,wc:1,przedpokój:1",4.0,3 piętro,5,,piwnica,osoba fizyczna,osoba fizyczna
+2017-12-29,Kraków - Podgórze,Liściasta,33,własność-własność,390000,50.53,,7718.19,zapłacono,,"pokój:1,pokój z aneksem kuchennym:1,łazienka:1,przedpokój:1",4.0,3 piętro,,,,osoba fizyczna,osoba fizyczna
+2017-12-29,Kraków - Śródmieście,Blich,52,własność-u.wieczyste,643000,102.0,15.1,6303.92,zapłacono,przedwojenny,"pokój:3,kuchnia:1,łazienka:1,przedpokój:2,spiżarka:1,korytarz:1",2.0,1 piętro,4,,piwnica,osoba fizyczna,osoba fizyczna

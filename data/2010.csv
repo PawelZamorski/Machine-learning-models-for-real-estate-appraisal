@@ -1,0 +1,10 @@
+Transaction_date,Admin_district,Street,Geodesic_precinct,Type_of_law,Transaction_price,Floor_area,Other_area,Price_per_Floor_area,PCC,Year_of_construction,Short_description,Storey,Floor,No_of_storeys,Standard_of_flat,Type_of_other_area,Seller,Buyer
+2010-12-31,Kraków - Śródmieście,Narzymskiego Józefa,5,własność-własność,159670.0,22.81,3.31,7000.0,nie zapłacono,,"pokój:1,kuchnia:1,łazienka:1,przedpokój:1",1.0,parter,,,piwnica,spółdzielnia,osoba fizyczna
+2010-12-31,Kraków - Krowodrza,Chełmońskiego Józefa,33,spółdzielcze wł. prawo,162000.0,23.7,,6835.44,,,"pokój:1,aneks kuchenny:1,łazienka:1,przedpokój:1",9.0,powyżej 5 piętra,,,piwnica,osoba fizyczna,osoba fizyczna
+2010-12-31,Kraków - Podgórze,Mieczykowa,69,własność-u.wieczyste,345000.0,54.51,11.38,6329.11,,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",,2 piętro,,,,osoba fizyczna,osoba fizyczna
+2010-12-31,Kraków - Krowodrza,Balicka,6,własność-u.wieczyste,355000.0,48.3,,7349.9,,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",2.0,1 piętro,,,,osoba fizyczna,osoba fizyczna
+2010-12-30,Kraków - Podgórze,Halszki Porucznika,48,spółdzielcze wł. prawo,357000.0,73.3,,4870.4,,,"pokój:4,kuchnia:1,łazienka:1,wc:1,przedpokój:1",4.0,3 piętro,,,piwnica,osoba fizyczna,osoba fizyczna
+2010-12-30,Kraków - Podgórze,Słomiana,11,spółdzielcze wł. prawo,320000.0,47.5,,6736.84,,,"pokój:3,kuchnia:1,łazienka:1,przedpokój:1",4.0,3 piętro,11.0,,piwnica,osoba fizyczna,osoba fizyczna
+2010-12-30,Kraków - Krowodrza,Poznańska,45,własność-u.wieczyste,670823.07,80.59,,8323.9,nie zapłacono,lata 2000-2009,"pokój:3,kuchnia:1,łazienka:1,przedpokój:1",5.0,4 piętro,8.0,,,deweloper,osoba fizyczna
+2010-12-30,Kraków - Krowodrza,Lea Juliusza,4,własność-własność,374500.0,48.69,,7691.52,nie zapłacono,,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1",6.0,5 piętro,6.0,,,spółka prawa handlowego,osoba fizyczna
+2010-12-30,Kraków - Podgórze,Kamieniecka,69,własność-własność,329000.0,54.88,,5994.9,,,"pokój:2,kuchnia:1,łazienka:1,wc:1",,1 piętro,,,,deweloper,osoba fizyczna

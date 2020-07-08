@@ -1,0 +1,10 @@
+Transaction_date,Admin_district,Street,Geodesic_precinct,Type_of_law,Transaction_price,Floor_area,Other_area,Price_per_Floor_area,PCC,Year_of_construction,Short_description,Storey,Floor,No_of_storeys,Standard_of_flat,Type_of_other_area,Seller,Buyer
+2012-12-31,Kraków - Śródmieście,Środkowa,23,własność-u.wieczyste,335000,37.37,2.27,8964.41,zapłacono,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",4.0,3 piętro,,,komórka lokatorska,osoba fizyczna,osoba fizyczna
+2012-12-31,Kraków - Nowa Huta,Dywizjonu,7,własność-własność,242000,50.9,,4754.42,zapłacono,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",5.0,4 piętro,,,piwnica,osoba fizyczna,osoba fizyczna
+2012-12-31,Kraków - Podgórze,Lubostroń,35,własność-własność,305000,45.1,,6762.75,nie zapłacono,lata 2010-2019,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1",2.0,1 piętro,,,,deweloper,osoba fizyczna
+2012-12-31,Kraków - Podgórze,Lubostroń,35,własność-własność,305000,45.1,,6762.75,nie zapłacono,lata 2010-2019,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1",2.0,1 piętro,,,,deweloper,osoba fizyczna
+2012-12-31,Kraków - Podgórze,Bunscha Karola,41,własność-własność,310000,52.35,2.94,5921.68,nie zapłacono,lata 2010-2019,"pokój:2,aneks kuchenny:1,łazienka:1,przedpokój:1,garderoba:2",3.0,2 piętro,,dobry,"KOMÓRKA LOKATORSKA, miejsce postojowe",deweloper,osoba fizyczna
+2012-12-31,Kraków - Śródmieście,Łazarza Świętego,52,własność-własność,265000,40.76,3.58,6501.47,zapłacono,przedwojenny,"pokój:1,kuchnia:1,łazienka:1,przedpokój:1,pomieszczenie gospodarcze:1,magazyn:1",1.0,parter,,,komórka lokatorska,osoba fizyczna,osoba fizyczna
+2012-12-31,Kraków - Podgórze,Nadwiślańska,13,własność-własność,1312839,147.51,,8900.0,zapłacono,,,,,,,,"przeds., spółka, firma","przeds., spółka, firma"
+2012-12-31,Kraków - Podgórze,Nadwiślańska,13,własność-własność,899027,99.34,,9050.0,zapłacono,,,,,,,,"przeds., spółka, firma","przeds., spółka, firma"
+2012-12-31,Kraków - Podgórze,Nadwiślańska,13,własność-własność,1487458,164.35,,9050.55,zapłacono,,,,,,,,"przeds., spółka, firma","przeds., spółka, firma"

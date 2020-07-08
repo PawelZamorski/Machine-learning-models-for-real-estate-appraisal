@@ -1,0 +1,10 @@
+Transaction_date,Admin_district,Street,Geodesic_precinct,Type_of_law,Transaction_price,Floor_area,Other_area,Price_per_Floor_area,PCC,Year_of_construction,Short_description,Storey,Floor,No_of_storeys,Standard_of_flat,Type_of_other_area,Seller,Buyer
+2011-12-30,Kraków - Krowodrza,Radzikowskiego Walerego Eliasza,41,własność-własność,330000,51.3,2.44,6432.75,zapłacono,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",2.0,1 piętro,,do remontu kapitalnego,piwnica,osoba fizyczna,osoba fizyczna
+2011-12-30,Kraków - Krowodrza,Pod Strzechą,40,własność-własność,700000,138.78,76.13,5043.95,nie zapłacono,lata 2000-2009,"pokój:5,kuchnia:1,łazienka:1,wc:1,przedpokój:4",1.2,parter,,,garaż,deweloper,osoba fizyczna
+2011-12-30,Kraków - Krowodrza,Tetmajera Włodzimierza,40,własność-własność,470124.7,64.53,,7285.37,nie zapłacono,lata 2010-2019,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1,garderoba:1,pomieszczenie gospodarcze:1",3.0,2 piętro,,,strych,deweloper,osoba fizyczna
+2011-12-30,Kraków - Śródmieście,Szafera Władysława Profesora,5,własność-u.wieczyste,345000,50.42,3.0,6842.52,zapłacono,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",,1 piętro,,,piwnica,osoba fizyczna,osoba fizyczna
+2011-12-30,Kraków - Śródmieście,Szafera Władysława Profesora,5,własność-u.wieczyste,345000,50.42,3.0,6842.52,zapłacono,,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",2.0,1 piętro,,,piwnica,osoba fizyczna,osoba fizyczna
+2011-12-30,Kraków - Nowa Huta,Akademickie,6,własność-u.wieczyste,343398.75,58.58,1.8,5862.05,nie zapłacono,lata 2010-2019,"pokój:2,kuchnia:1,łazienka:1,przedpokój:1",1.0,parter,5,bardzo dobry,piwnica,deweloper,osoba fizyczna
+2011-12-30,Kraków - Krowodrza,Wrocławska,46,własność-u.wieczyste,250000,48.0,,5208.33,zapłacono,,"pokój:3,kuchnia:1,łazienka:1,przedpokój:1",,,,dobry,,osoba fizyczna,osoba fizyczna
+2011-12-30,Kraków - Podgórze,Obozowa,43,własność-własność,359035,70.1,,5121.75,,,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1",,2 piętro,,,,deweloper,osoba fizyczna
+2011-12-30,Kraków - Krowodrza,Starowolska,10,własność-własność,528600,59.65,15.0,8861.69,,,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1",2.0,1 piętro,,,miejsce postojowe,deweloper,osoba fizyczna

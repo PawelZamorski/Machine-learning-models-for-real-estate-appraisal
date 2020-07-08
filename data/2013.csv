@@ -1,0 +1,10 @@
+Transaction_date,Admin_district,Street,Geodesic_precinct,Type_of_law,Transaction_price,Floor_area,Other_area,Price_per_Floor_area,PCC,Year_of_construction,Short_description,Storey,Floor,No_of_storeys,Standard_of_flat,Type_of_other_area,Seller,Buyer
+2013-12-31,Kraków - Podgórze,Przemiarki,35,własność-własność,364865.0,61.39,,5943.39,nie zapłacono,lata 2010-2019,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1",2.0,1 piętro,,,miejsce postojowe,deweloper,osoba fizyczna
+2013-12-31,Kraków - Podgórze,Borkowska,69,własność-u.wieczyste,334512.0,66.83,,5005.42,nie zapłacono,,"pokój:3,aneks kuchenny:1,łazienka:1,przedpokój:1",,parter,,,,deweloper,osoba fizyczna
+2013-12-31,Kraków - Podgórze,Babinicza,69,własność-własność,214000.0,35.76,,5984.34,zapłacono,,"pokój:2,aneks kuchenny:1,łazienka:1,przedpokój:1",,1 piętro,,,,osoba fizyczna,osoba fizyczna
+2013-12-31,Kraków - Krowodrza,Stańczyka,2,własność-u.wieczyste,444392.71,68.27,24.29,6509.34,nie zapłacono,lata 2010-2019,,1.0,parter,,,,deweloper,osoba fizyczna
+2013-12-31,Kraków - Krowodrza,Zawodzie,43,własność-własność,307000.0,49.52,,6199.52,nie zapłacono,lata 2010-2019,"pokój:2,aneks kuchenny:1,łazienka:1,przedpokój:1,garderoba:1",5.0,4 piętro,5.0,,,deweloper,osoba fizyczna
+2013-12-31,Kraków - Krowodrza,Zawodzie,43,własność-własność,290000.0,49.5,,5858.59,nie zapłacono,lata 2010-2019,"pokój:2,aneks kuchenny:1,łazienka:1,przedpokój:1,garderoba:1",4.0,3 piętro,5.0,,,deweloper,"przeds., spółka, firma"
+2013-12-30,Kraków - Krowodrza,Nad Sudołem,42,spółdzielcze wł. prawo,295000.0,47.4,4.01,6223.63,zapłacono,,"pokój:3,kuchnia:1,łazienka:1,przedpokój:1",4.0,3 piętro,5.0,do remontu,piwnica,osoba fizyczna,osoba fizyczna
+2013-12-30,Kraków - Krowodrza,Złota Podkowa,40,własność-własność,282000.0,47.01,,5998.72,nie zapłacono,lata 2010-2019,"pokój:2,kuchnia:1,łazienka:1,wc:1,przedpokój:1",3.0,2 piętro,,,,deweloper,osoba fizyczna
+2013-12-30,Kraków - Krowodrza,Gnieźnieńska,41,własność-u.wieczyste,157500.0,23.7,2.3,6645.57,zapłacono,,"pokój:1,aneks kuchenny:1,łazienka:1,przedpokój:2",8.0,powyżej 5 piętra,,do remontu,piwnica,osoba fizyczna,osoba fizyczna
